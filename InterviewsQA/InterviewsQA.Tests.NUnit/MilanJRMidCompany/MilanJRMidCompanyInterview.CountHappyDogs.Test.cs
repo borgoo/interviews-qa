@@ -2,7 +2,7 @@
 
 namespace InterviewsQA.Tests.NUnit.MilanJRMidCompany;
 
-internal partial class MilanJRMidCompanyInterviewTest
+public partial class MilanJRMidCompanyInterviewTest
 {
     [Test]
     public void CountHappyDogs_WhenNotEvenMinStackesAreProvided_ThenReturns0()

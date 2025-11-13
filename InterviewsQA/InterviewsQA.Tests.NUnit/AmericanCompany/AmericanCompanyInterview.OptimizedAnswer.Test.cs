@@ -2,7 +2,7 @@
 
 namespace InterviewsQA.Tests.NUnit.AmericanCompany;
 
-internal partial class AmericanCompanyInterviewTest
+public partial class AmericanCompanyInterviewTest
 {
     /**
      * [][]

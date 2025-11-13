@@ -8,9 +8,6 @@
     <IsPackable>false</IsPackable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <None Include="MilanJRMidCompany\MilanJRMidCompanyInterview.FilterDuplicates.Test.cs" />
-  </ItemGroup>
 
   <ItemGroup>
     <PackageReference Include="coverlet.collector" Version="6.0.2" />
